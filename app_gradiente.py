@@ -43,7 +43,7 @@ práctico del notebook de Cálculo Aplicado.
 
 
 #def gradiente_f2(x, y):
-  #  """Gradiente de f2: vector de derivadas parciales."""
+  #"""Gradiente de f2: vector de derivadas parciales."""
     #return np.array([2 * x, 2 * y])
 
 def f2(x, y):
